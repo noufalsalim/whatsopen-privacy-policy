@@ -81,3 +81,7 @@ How “Do Not Track” requests are handled This Application does not support �
 Changes to this privacy policy The Owner reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page and possibly within this Application and/or - as far as technically and legally feasible - sending a notice to Users via any contact information available to the Owner. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom.
 
 Should the changes affect processing activities performed on the basis of the User’s consent, the Owner shall collect new consent from the User, where required.
+
+## Delete user data
+
+For deleting user data please drop a main to mail@wagglelab.com
